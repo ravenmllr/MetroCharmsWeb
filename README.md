@@ -4,7 +4,7 @@ A Windows 8-style **Charms Bar** for the desktop, built with WPF and WebView2. T
 
 > Unofficial hobby project. Not affiliated with or endorsed by Microsoft, Meta, WhatsApp or Instagram. It only loads the official websites in an embedded browser.
 
-<!-- Add a screenshot here: ![MetroCharmsWeb](docs/screenshot.png) -->
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/655f2bc8-b3b6-4336-84b7-901963e4e236" />
 
 ## Features
 
